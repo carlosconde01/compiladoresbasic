@@ -1,0 +1,19 @@
+program myprogram {
+
+var a;
+a = 10;
+
+x = 5 + 4;
+y = 10 - 5;
+z = 3 * 2;
+w = 7 / 9;
+    
+
+if (11>10) {
+    println 1;
+} else {
+    println 0;
+}
+
+    
+}
